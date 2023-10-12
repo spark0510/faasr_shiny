@@ -8,5 +8,6 @@
  * `install.pacakges("DiagrammeR")` # if DiagrammeR package is not installed.<br>
  * `install.packages("uuid")`  # if uuid package is not installed.<br>
  * `install.packages("jsonlite")`  # if jsonlite package is not installed.<br>
+ 
  **4. Run shiny App<br>**
  * `shiny::runApp()`
